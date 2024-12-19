@@ -1,0 +1,106 @@
+h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #dcd1f8;
+}
+
+.container {
+  border: 2px solid white;
+  border-radius: 25px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(8px);
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  padding: 5px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+
+.input-container input[type="text"], 
+.input-container input[type="password"], 
+.input-container input[type="email"] {
+  width: 100%;
+  padding: 12px;
+  padding-left: 40px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 16px;
+  border-radius: 25px;
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"], input[type="button"], input.back  {
+  width: 40%;
+  padding: 12px;
+  background: linear-gradient(145deg, #7a5dd6, #b297f7);
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: background 0.3s ease;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"]:disabled {
+  background-color: #e9ecef; 
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.error, .success {
+  color: #FF474C;
+  margin-bottom: 20px;
+}
+
+.success {
+  color: #90EE90;
+}
+
+.verify{
+  margin-bottom: 0px !important;
+}
+
+input.back {
+  color: #5d46a7;
+  background: white;
+}
+
+input.back:hover {
+  background: linear-gradient(145deg, #5d46a7, #7a5dd6);
+  color: white;
+}
+
+input[type="submit"]:hover {
+  background: linear-gradient(145deg, #5d46a7, #7a5dd6);
+}
+
+.error, .success {
+  color: #FF474C;
+  margin-bottom: 20px;
+}
+
+.success {
+  color: #90EE90;
+}
+
+a{
+  color: white;
+}
+
+.verify{
+  margin-bottom: 0px !important;
+}
+
+input:disabled {
+  background-color: #e9ecef; 
+  opacity: 0.5; 
+}
