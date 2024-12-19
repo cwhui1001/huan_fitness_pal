@@ -50,6 +50,10 @@ Huan Fitness Pal is a user-friendly fitness platform designed to help users mana
 
 - Track Progress: Edit progress and View personalized charts based on logged-in user data.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Contact
 
 For questions or suggestions, please contact Wen Hui at [cwenhui10@gmail.com].
