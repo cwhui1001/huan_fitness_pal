@@ -21,13 +21,12 @@ Huan Fitness Pal is a user-friendly fitness platform designed to help users mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/huan_fitness_pal.git
+   git clone https://github.com/cwhui1001/huan_fitness_pal.git
    
 2. Navigate to the project directory:
-  ```bash
-  cd huan_fitness_pal
-  ```
-
+   ```bash
+   cd huan_fitness_pal
+   
 3. Set up the database:
   - Import the huan_fitness_pal.sql file into your MySQL database.
   - Configure database credentials in the config.php file.
