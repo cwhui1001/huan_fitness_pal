@@ -1,5 +1,5 @@
 <h1>Huan Fitness Pal</h1>
-![Alt text](home.png)
+![Home Page](home.png)
 
 Huan Fitness Pal is a user-friendly fitness platform designed to help users manage their fitness goals. It provides personalized features such as tracking body weight, accessing gym and yoga classes, and viewing customized progress charts.
 
