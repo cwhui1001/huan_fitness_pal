@@ -38,7 +38,7 @@ Huan Fitness Pal is a user-friendly fitness platform designed to help users mana
 
 5. Access the application in your browser:
    ```bash
-   http://localhost/huan_fitness_pal
+   http://localhost/huan_fitness_pal3
 
 ## Usage
 
